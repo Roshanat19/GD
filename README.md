@@ -41,7 +41,7 @@ These features are analyzed to extract meaningful insights for accurate weather 
 
 1. **Clone the Repository:**  
    ```bash  
-   git clone https://github.com/<your-username>/weather-forecasting.git  
+   git clone https://github.com/<Roshanat19>/weather-forecasting.git  
    cd weather-forecasting  
    ```  
 
